@@ -27,5 +27,6 @@
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.9" level="project" />
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish.hk2.external:bean-validator:2.2.0-b21" level="project" />
+    <orderEntry type="library" name="org.apache.xmlbeans:xmlbeans:2.6.0" level="project" />
   </component>
 </module>
