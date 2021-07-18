@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Jive_File_Manager.jnlp">
+  <information>
+    <title>JFM</title>
+    <vendor>Unknown</vendor>
+    <description>Jive File Manager</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Jive_File_Manager.jar" size="56554" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="com.a.e.qurbanzada.Login"  name="Jive File Manager" />
+  <update check="background"/>
+</jnlp>
